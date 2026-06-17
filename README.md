@@ -22,6 +22,16 @@
 - 中文版：[韬定律-多层电子系统的时间缩放理论-中文翻译版.pdf](translations/time-scaling-theory-multi-layer-electronic-systems/韬定律-多层电子系统的时间缩放理论-中文翻译版.pdf)
 - 说明：讨论后摩尔时代的时间缩放原则，以特征时间常数 tau 作为跨器件、电路、芯片、系统的统一优化目标。
 
+### 从 AGI 到 ASI
+
+- 原文：From AGI to ASI
+- 作者：Tim Genewein, Matija Franklin, Alexander Lerchner, Laurent Orseau, Samuel Albanie, Adam Bales, Cole Wyeth, Stephanie Chan, Iason Gabriel, Joel Z. Leibo, Allan Dafoe, Marcus Hutter, Thore Graepel, Shane Legg
+- 单位：Google DeepMind, University of Waterloo, Australian National University, University College London
+- 来源：arXiv:2606.12683v1
+- 原文链接：https://arxiv.org/abs/2606.12683
+- 中文版：[从AGI到ASI-中文翻译版.pdf](translations/from-agi-to-asi/从AGI到ASI-中文翻译版.pdf)
+- 说明：讨论从 AGI 到 ASI 的定义、边界、可能路径与瓶颈，强调 ASI 不是全知全能，也不只是 AGI 的线性增强。
+
 ## 收录原则
 
 - 只收录对个人学习、研究或实践有持续价值的文章、论文和资料。
