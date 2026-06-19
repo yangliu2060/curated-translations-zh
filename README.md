@@ -32,6 +32,15 @@
 - 中文版：[从AGI到ASI-中文翻译版.pdf](translations/from-agi-to-asi/从AGI到ASI-中文翻译版.pdf)
 - 说明：讨论从 AGI 到 ASI 的定义、边界、可能路径与瓶颈，强调 ASI 不是全知全能，也不只是 AGI 的线性增强。
 
+### HarnessX：可组合、自适应、可演化的 Agent Harness Foundry
+
+- 原文：HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry
+- 作者：Darwin Agent Team
+- 来源：arXiv:2606.14249v1
+- 原文链接：https://arxiv.org/abs/2606.14249
+- 中文版：[HarnessX-可组合自适应可演化Agent-Harness-中文翻译版.pdf](translations/harnessx-agent-harness-foundry/HarnessX-可组合自适应可演化Agent-Harness-中文翻译版.pdf)
+- 说明：讨论如何把提示词、工具、记忆、控制流和评估等运行时 harness 组件化、适应化和演化化；中文版保留原论文图表，并在图下注明图内英文的中文翻译。
+
 ## 收录原则
 
 - 只收录对个人学习、研究或实践有持续价值的文章、论文和资料。
